@@ -90,10 +90,10 @@
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <h2 class="section-heading">We've got what you need!</h2>
                     <hr class="light">
-                    <p class="text-faded">Our goal is to help you solidify your plan for success, borrow the necessary capital, and expand your venture to its full potential.
+                    <p class="text-faded section-heading">Our goal is to help you solidify your plan for success, borrow the necessary capital, and expand your venture to its full potential.
 
-We work to make commercial lending easily attainable for our clients to operate their business successfully and gain a profitable outcome to generate growth and expansion.</p>
-                    <a href="#services" class="page-scroll btn btn-default btn-xl sr-button">Get Started!</a>
+                      We work to make commercial lending easily attainable for our clients to operate their business successfully and gain a profitable outcome to generate growth and expansion.</p>
+                    <a href="#about" class="page-scroll btn btn-default btn-xl sr-button">Get Started!</a>
                 </div>
             </div>
         </div>
@@ -103,20 +103,41 @@ We work to make commercial lending easily attainable for our clients to operate 
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">About Us</h2>
+                    <h2 class="section-heading text-primary">About Us</h2>
                     <hr class="primary">
-                    <p class="text-primary">Become a leader in diversified financing to enable our clients to reach their full business potential through development and expansion!</p>
+                    <p class="section-heading">Become a leader in diversified financing to enable our clients to reach their full business potential through development and expansion!</p>
                 </div>
 
-                <div class="col-lg-3 col-md-6 text-center hi-icon-wrap hi-icon-effect-6 w3-dark-grey">
-                    <div class="service-box" data-toggle="collapse" data-target="#demo">
+                <div class="col-lg-12 text-center hi-icon-wrap hi-icon-effect-6">
+                    <div class="service-box card" data-toggle="collapse" data-target="#demo">
                         <i class="fa fa-4x fa-diamond text-primary sr-icons hi-icon"></i>
-                        <h3>Overview</h3>
+                        <h3 class="section-heading">Overview</h3>
                       </div>
+
+
+                    <div class="service-box card"  data-toggle="collapse" data-target="#demo1">
+                        <i class="fa fa-4x fa-paper-plane text-primary sr-icons hi-icon"></i>
+                        <h3 class="section-heading">Management</h3>
+                        <p class="text-muted"></p>
+                    </div>
+
+
+                    <div class="service-box card"  data-toggle="collapse" data-target="#demo2">
+                        <i class="fa fa-4x fa-newspaper-o text-primary sr-icons hi-icon"></i>
+                        <h3 class="section-heading">Affiliats</h3>
+                    </div>
+
+
+                    <div class="service-box card" data-toggle="collapse" data-target="#demo3">
+                        <i class="fa fa-4x fa-heart text-primary sr-icons hi-icon"></i>
+                        <h3 class="section-heading">Initiatives</h3>
+                    </div>
+
+
                       <div id="demo" class="collapse text-left">
 
                     <p>
-                    <h3 class="text-primary">Corporate Lending Center, Inc.</h3>, is a privately owned financial firm created to deliver capital to individuals and businesses. Based in the Silicon Valley, our foundation is built on an extremely knowledgeable and qualified executive team.
+                    <h3 class="text-primary">Corporate Lending Center, Inc.</h3> CLC, Inc is a privately owned financial firm created to deliver capital to individuals and businesses. Based in the Silicon Valley, our foundation is built on an extremely knowledgeable and qualified executive team.
                   </p><p>
                     We offer our clients strategic financing methods to build a strong base to continue expansion based on the industry potential and growth capabilities.
                   </p><p>
@@ -125,94 +146,75 @@ We work to make commercial lending easily attainable for our clients to operate 
                     By offering the business capital needed from the stepping stone (start-up phase), to acquiring more equpiment (growth phase), to financing franchises, <span class="text-primary"> CLC</span>'s services can be applied to every stage of an establishment. We also offer factoring (B2B) to assist with immediate needs that arise throughout regular business operations.
                   </p>
                   </div>
-                </div>
-                <div class="col-lg-3 col-md-6 text-center hi-icon-wrap hi-icon-effect-6 w3-dark-grey">
-                    <div class="service-box"  data-toggle="collapse" data-target="#demo1">
-                        <i class="fa fa-4x fa-paper-plane text-primary sr-icons hi-icon"></i>
-                        <h3>Management</h3>
-                        <p class="text-muted"></p>
-                    </div>
-                    <div id="demo1" class="collapse text-left">
+                  <div id="demo1" class="collapse text-left">
 
-                    <h3 class="text-primary">Roger Mota:<br/>
-                      CEO and President </h3>.
-                      <p>Roger has over 12 years of hands-on finance experience in a multitude of industries. As an entrepreneur, he has been subjected to the flaws and strengths of the commercial finance industry, which has prompted him to establish this venture. Through extensive research and development, Roger is confident CLC can provide the financial solutions required by his fellow entrepreneurs and business owners.
-                      </p><p>
-                        Contact: rmota@corplending.com</p>
-                        <p>
-                        <h3 class="text-primary">TJ Sidhu:<br/>
-                          Public Relations/Marketing Director</h3><br/>
-                          B.A., Politics: University of San Francisco, CA <br/>
-                          <p>TJ joined CLC's team bringing experience from small businesses and large corporate establishments. With an educational and professional background in the political arena, she brings a personal understanding of the financial and political strains facing our clients in the current economy.
-                          </p><p>
-                          Contact: tjsidhu@corplending.com</p>
-                          <h3 class="text-primary"> Jaimie Keary: </br>
-                          Office Manager </h3><br/>
-                          B.S., Business Administration: University of Phoenix, California <br/>
-                          <p>As CLC's office manager, Jaimie is a key element for daily operations. She brings strong management skills essential for the company's success and offers a fresh perspective on the mediation between the executive team, clients and our industry partners.
-                          </p><p>
-                          Contact: jkeary@corplending.com</p>
-                          <h3 class="text-primary"> Gautham Stalin:<br/>
-                          Computer and Information Systems Manager </h3><br/>
-                          MS, Computer Science: NorthWestern Polytechnic University, CA<br/><p>
-                          Gautham's exceptional skills in web design, programming and system development work to strengthen and maintain the image of CLC. His creative outlook works seamlessly with his keen attention to detail; a great representative of the multiple departments of the company and their daily operations.
-                        </p><p>
-                          Contact: gstalin@corplending.com
-                        </p>
-
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 text-center hi-icon-wrap hi-icon-effect-6 w3-dark-grey">
-                    <div class="service-box"  data-toggle="collapse" data-target="#demo2">
-                        <i class="fa fa-4x fa-newspaper-o text-primary sr-icons hi-icon"></i>
-                        <h3>Affiliats</h3>
-                    </div>
-                    <div id="demo2" class="collapse text-left">
-                      Affiliates
-                  <p>
-                    Below is a list of organizations that Corporate Lending Center is affiliated with. CLC works with these firms to build positive relationships with their informed and knowledgeable staff to promote the best opportunities for the members.
-                  </p>
-                    <h3 class="text-primary"> CALTRUX </h3> <br/>
-                    California Trucking Association</br>
-                    www.caltrux.org</p>
-                    <p>
-                    <h3 class="text-primary">CAWG </h3><br/>
-                    California Association of Winegrape Growers <br/>
-                    www.cawg.org</p>
-                    <p>
-                    <h3 class="text-primary">NAELB </h3><br/>
-                    National Association of Equipment Leasing Brokers <br/>
-                    www.naelb.org</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 text-center hi-icon-wrap hi-icon-effect-6 w3-dark-grey">
-                    <div class="service-box" data-toggle="collapse" data-target="#demo3">
-                        <i class="fa fa-4x fa-heart text-primary sr-icons hi-icon"></i>
-                        <h3>Initiatives</h3>
-                    </div>
-                    <div id="demo3" class="collapse text-left">
+                  <h3 class="text-primary">Roger Mota:<br/>
+                    CEO and President </h3>.
+                    <p>Roger has over 12 years of hands-on finance experience in a multitude of industries. As an entrepreneur, he has been subjected to the flaws and strengths of the commercial finance industry, which has prompted him to establish this venture. Through extensive research and development, Roger is confident CLC can provide the financial solutions required by his fellow entrepreneurs and business owners.
+                    </p><p>
+                      Contact: rmota@corplending.com</p>
                       <p>
-                        A Message from the President</p>
-                        <p>
-                          My vision for Corporate Lending Center, Inc. is to integrate our business and community together; it is an integral part of my outlook to include various aspects of our surrounding environment into our long-term goals.
+                      <h3 class="text-primary">TJ Sidhu:<br/>
+                        Public Relations/Marketing Director</h3><br/>
+                        B.A., Politics: University of San Francisco, CA <br/>
+                        <p>TJ joined CLC's team bringing experience from small businesses and large corporate establishments. With an educational and professional background in the political arena, she brings a personal understanding of the financial and political strains facing our clients in the current economy.
                         </p><p>
-                          CLC, Inc. has paid special attention to incorporate social responsibility through various activities into our business model. This will create a positive impact on the environment, as well as consumers, employees, stakeholders and other members of the public sphere.
-                          </p><p>
-                          As we move forward in a quickly changing global economy, we strive to execute the highest standards in all aspects of business and uphold our social responsibility to our society and environment.
-                          </p><p>
-                          Roger Mota <br/>
-                          President & CEO
-                          </p><p>
-                          In order to create a sustainable and responsible business we are taking the following initiatives to emphasize the importance of our community.
-                          </p><p>
+                        Contact: tjsidhu@corplending.com</p>
+                        <h3 class="text-primary"> Jaimie Keary: </br>
+                        Office Manager </h3><br/>
+                        B.S., Business Administration: University of Phoenix, California <br/>
+                        <p>As CLC's office manager, Jaimie is a key element for daily operations. She brings strong management skills essential for the company's success and offers a fresh perspective on the mediation between the executive team, clients and our industry partners.
+                        </p><p>
+                        Contact: jkeary@corplending.com</p>
+                        <h3 class="text-primary"> Gautham Stalin:<br/>
+                        Computer and Information Systems Manager </h3><br/>
+                        MS, Computer Science: NorthWestern Polytechnic University, CA<br/><p>
+                        Gautham's exceptional skills in web design, programming and system development work to strengthen and maintain the image of CLC. His creative outlook works seamlessly with his keen attention to detail; a great representative of the multiple departments of the company and their daily operations.
+                      </p><p>
+                        Contact: gstalin@corplending.com
+                      </p>
 
-                        Education: Sponsorships for community schools and colleges <br/>
-                        Community: Fundraisers and food drives for shelters <br/>
-                        Sponsorships: Sponsoring academic and athletic events <br/>
-                        Environment: Green drives in the community </p>
+                  </div>
+                  <div id="demo2" class="collapse text-left">
+                    Affiliates
+                <p>
+                  Below is a list of organizations that Corporate Lending Center is affiliated with. CLC works with these firms to build positive relationships with their informed and knowledgeable staff to promote the best opportunities for the members.
+                </p>
+                  <h3 class="text-primary"> CALTRUX </h3> <br/>
+                  California Trucking Association</br>
+                  www.caltrux.org</p>
+                  <p>
+                  <h3 class="text-primary">CAWG </h3><br/>
+                  California Association of Winegrape Growers <br/>
+                  www.cawg.org</p>
+                  <p>
+                  <h3 class="text-primary">NAELB </h3><br/>
+                  National Association of Equipment Leasing Brokers <br/>
+                  www.naelb.org</p>
+                  </div>
+                  <div id="demo3" class="collapse text-left">
+                    <p>
+                      A Message from the President</p>
+                      <p>
+                        My vision for Corporate Lending Center, Inc. is to integrate our business and community together; it is an integral part of my outlook to include various aspects of our surrounding environment into our long-term goals.
+                      </p><p>
+                        CLC, Inc. has paid special attention to incorporate social responsibility through various activities into our business model. This will create a positive impact on the environment, as well as consumers, employees, stakeholders and other members of the public sphere.
+                        </p><p>
+                        As we move forward in a quickly changing global economy, we strive to execute the highest standards in all aspects of business and uphold our social responsibility to our society and environment.
+                        </p><p>
+                        Roger Mota <br/>
+                        President & CEO
+                        </p><p>
+                        In order to create a sustainable and responsible business we are taking the following initiatives to emphasize the importance of our community.
+                        </p><p>
 
-                    </div>
-                </div>
+                      Education: Sponsorships for community schools and colleges <br/>
+                      Community: Fundraisers and food drives for shelters <br/>
+                      Sponsorships: Sponsoring academic and athletic events <br/>
+                      Environment: Green drives in the community </p>
+
+                  </div>
+              </div>
             </div>
         </div>
     </section>
@@ -232,7 +234,7 @@ We work to make commercial lending easily attainable for our clients to operate 
                     Please contact us for more details and how we can specially tailor each financing option for your specific needs.
               </div>
           </div>
-            <div class="row no-gutter popup-gallery">
+              <div class="row no-gutter">
                 <div class="col-lg-4 col-sm-6 card imgWrap">
                   <div class="project-name text-info">
                       Factoring
@@ -382,65 +384,67 @@ We work to make commercial lending easily attainable for our clients to operate 
                             </p>
                             <p>
                                 Areas where financing for commerical real estate can be applied:
-                            </p></span>
+                            </p>
+                          </span>
                     </div>
-                </div>
-            </div>
+                  </div>
+              </div>
         </div>
     </section>
 
     <aside class="bg-dark" id="media">
         <div class="container text-left">
-          <div class="MediaContents Absolute zindex1">
-          <h3 class="blue">Media - Press Release</h3>
-          <h3 class="blue">Corporate Lending Center - Reinventing the Commercial Financing Industry</h3>
-          <p>
-              Corporate Lending Center, Inc. is a commercial lending firm providing start-ups, small to mid-sized businesses and large corporations with financial capital to establish and grow their business. Along with being an outstanding community partner, it is bringing new jobs and opportunities to a well-deserving area. While helping entrepreneurial minds build their business propositions into global enterprises, CLC, Inc. will also be offering financial services to existing, established businesses to grow and develop to the next level.
-          </p>
-          <p>
-              In the past, many have depended on banks to provide this type of assistance, but due to the recent economic state of the country, the difficulty of attaining financial funding has become a harsh reality.
-          </p>
-          <p>
-              Standard and Poor's, a U.S based financial services company which provides research, analysis and credit ratings based on stocks and bonds, has lowered the U.S long-term rating. Looking at this type of economic instability, commercial banks and main-stream financial institutions are holding back capital to fund start-ups and small to midsized projects. This has created a limitation on new commercial loans for businesses currently seeking financing.
-          </p>
-          <p>
-              Roger Mota, CEO of Corporate Lending Center, Inc., started this finance venture and has brought it to the forefront of his life's work. This new entity will give commercial financing an innovative way of funding small and large projects.  Instead of taking the traditional approach and focusing on an individual's credit report and history, CLC, Inc. will be evaluating eligibility on an individual's current business standing and the potential of the industry.
-          </p>
-          <p>
-              "The potential of a brilliant idea cannot be judged solely by a number on a credit report; it takes passion, knowledge and a strong foundation to create something fundamental" states Roger Mota.
-          </p>
-          <p>
-              CLC, Inc. will be providing commercial lending in various industries, such as, factoring (B2B), equipment leasing, merchant financing, vendor financing, franchise financing and many more. This venture is an attractive option for those seeking quick funding with fewer hassles to start a new business or expand an existing one.
-          </p>
-          <p>
-              In recent years, there have been significant advances within the commercial finance industry. Reputable companies are now allowed to engage in commercial lending; providing flexible options along with helping maintain and strengthen the nation's economy. This enables the establishment and viability of small businesses. CLC, Inc. will offer a range of commercial financing for industries operating in retail, manufacturing, farming, construction, technological research, design and development and international business endeavors. This will include specialty areas such as healthcare (dental and medical), assisted living, restaurants, night clubs, and automotive amongst others.
-          </p>
-          <p>
-              Our products include asset-based loans and enterprise value-based cash flow loans to support expansion, acquisition and growth.  An entrepreneur at heart, Roger speaks from experience, "our goal is not only to form collaborations where both parties benefit, but to also build long lasting relationships with our clients. We are assisting individuals to accelerate their ideas and existing businesses to reach greater heights while working to strengthen and revitalize the foundation of the American economy."
-          </p>
-          <p>
-              For more information, visit: <a href="http://www.corplending.com" class="nolink blue bold" style="text-decoration: underline;">www.corplending.com</a><br>
-              Email us at: <a href="mailto:info@corplending.com" class="nolink blue bold" style="text-decoration: underline;">info@corplending.com</a><br>
-              For inquiries and more information please call toll free: (888) 383-0001
-          </p>
+            <div class="MediaContents Absolute zindex1">
+              <h3 class="section-heading">Media - Press Release</h3>
+              <hr>
+              <h3 class="blue">Corporate Lending Center - Reinventing the Commercial Financing Industry</h3>
+              <p>
+                  Corporate Lending Center, Inc. is a commercial lending firm providing start-ups, small to mid-sized businesses and large corporations with financial capital to establish and grow their business. Along with being an outstanding community partner, it is bringing new jobs and opportunities to a well-deserving area. While helping entrepreneurial minds build their business propositions into global enterprises, CLC, Inc. will also be offering financial services to existing, established businesses to grow and develop to the next level.
+              </p>
+              <p>
+                  In the past, many have depended on banks to provide this type of assistance, but due to the recent economic state of the country, the difficulty of attaining financial funding has become a harsh reality.
+              </p>
+              <p>
+                  Standard and Poor's, a U.S based financial services company which provides research, analysis and credit ratings based on stocks and bonds, has lowered the U.S long-term rating. Looking at this type of economic instability, commercial banks and main-stream financial institutions are holding back capital to fund start-ups and small to midsized projects. This has created a limitation on new commercial loans for businesses currently seeking financing.
+              </p>
+              <p>
+                  Roger Mota, CEO of Corporate Lending Center, Inc., started this finance venture and has brought it to the forefront of his life's work. This new entity will give commercial financing an innovative way of funding small and large projects.  Instead of taking the traditional approach and focusing on an individual's credit report and history, CLC, Inc. will be evaluating eligibility on an individual's current business standing and the potential of the industry.
+              </p>
+              <p>
+                  "The potential of a brilliant idea cannot be judged solely by a number on a credit report; it takes passion, knowledge and a strong foundation to create something fundamental" states Roger Mota.
+              </p>
+              <p>
+                  CLC, Inc. will be providing commercial lending in various industries, such as, factoring (B2B), equipment leasing, merchant financing, vendor financing, franchise financing and many more. This venture is an attractive option for those seeking quick funding with fewer hassles to start a new business or expand an existing one.
+              </p>
+              <p>
+                  In recent years, there have been significant advances within the commercial finance industry. Reputable companies are now allowed to engage in commercial lending; providing flexible options along with helping maintain and strengthen the nation's economy. This enables the establishment and viability of small businesses. CLC, Inc. will offer a range of commercial financing for industries operating in retail, manufacturing, farming, construction, technological research, design and development and international business endeavors. This will include specialty areas such as healthcare (dental and medical), assisted living, restaurants, night clubs, and automotive amongst others.
+              </p>
+              <p>
+                  Our products include asset-based loans and enterprise value-based cash flow loans to support expansion, acquisition and growth.  An entrepreneur at heart, Roger speaks from experience, "our goal is not only to form collaborations where both parties benefit, but to also build long lasting relationships with our clients. We are assisting individuals to accelerate their ideas and existing businesses to reach greater heights while working to strengthen and revitalize the foundation of the American economy."
+              </p>
+              <p>
+                  For more information, visit: <a href="http://www.corplending.com" class="nolink blue bold" style="text-decoration: underline;">www.corplending.com</a><br>
+                  Email us at: <a href="mailto:info@corplending.com" class="nolink blue bold" style="text-decoration: underline;">info@corplending.com</a><br>
+                  For inquiries and more information please call toll free: (888) 383-0001
+              </p>
 
-          <h4>Please contact:</h4>
-          <p>
-              TJ Sidhu<br>
-              Public Relations Director<br>
-              <a href="mailto:tjsidhu@corplending.com" class="nolink blue bold" style="text-decoration: underline;">tjsidhu@corplending.com</a><br>
-          </p>
-      </div>
+              <h4>Please contact:</h4>
+              <p>
+                  TJ Sidhu<br>
+                  Public Relations Director<br>
+                  <a href="mailto:tjsidhu@corplending.com" class="nolink blue bold" style="text-decoration: underline;">tjsidhu@corplending.com</a><br>
+              </p>
+            </div>
         </div>
     </aside>
 
 
-  	   <div class="col-md-12 contact_page" id="contact">
-  	     	<h1 class="subtitle text-center title"> Get In Touch </h1>
+  	<div class="col-md-12 contact_page" id="contact">
+  	     	<h1 class="subtitle text-center title section-heading"> Get In Touch </h1>
       		<hr>
 
       		<div class="row text-center">
-      			<h2 class="subtitle text-center"> Contact &amp; Location </h2>
+      			<h2 class="subtitle text-center section-heading"> Contact &amp; Location </h2>
       			<hr class="short_hr">
       			<div class="col-md-2"></div>
       			<div class="col-md-4">
@@ -505,34 +509,34 @@ We work to make commercial lending easily attainable for our clients to operate 
   	</div>
 
     <footer>
-    <div class="container-fluid">
-        <div class="col-md-12 text-center">
-            <ul class="connected-icons">
-                <li><a target="_blank" href="#"><i class="fa fa-twitter fa-2-5x" style="font-size:3.5rem; color:#000;"></i></a></li>
+        <div class="container-fluid">
+            <div class="col-md-12 text-center">
+                <ul class="connected-icons">
+                    <li><a target="_blank" href="#"><i class="fa fa-twitter fa-2-5x" style="font-size:3.5rem; color:#000;"></i></a></li>
 
-                <li><a target="_blank" href="#"><i class="fa fa-facebook fa-2-5x" style="font-size:3.5rem; color:#000;"></i></a></li>
+                    <li><a target="_blank" href="#"><i class="fa fa-facebook fa-2-5x" style="font-size:3.5rem; color:#000;"></i></a></li>
 
-                <li><a target="_blank" href="#"><i class="fa fa-instagram fa-2-5x" style="font-size:3.5rem; color:#000;"></i></a></li>
+                    <li><a target="_blank" href="#"><i class="fa fa-instagram fa-2-5x" style="font-size:3.5rem; color:#000;"></i></a></li>
 
-                <li><a target="_blank" href="#"><i class="fa fa-google-plus fa-2-5x" style="font-size:3.5rem; color:#000;"></i></a></li>
-            </ul>
+                    <li><a target="_blank" href="#"><i class="fa fa-google-plus fa-2-5x" style="font-size:3.5rem; color:#000;"></i></a></li>
+                </ul>
 
-            <br>
-            <ul>
-                <li>
-                    <a href="partials/privacy.php">Privacy Policy</a>
-                </li>
-                <li>
-                    <a href="partials/terms.php">Terms &amp; Condition </a>
-                </li>
-            </ul>
-            <br>
-            <p class="text-center" style="color:black;">
-                © 2012 Corporate Lending Center, Inc. All Rights Reserved
-            </p>
+                <br>
+                <ul class="list-type">
+                    <li>
+                        <a href="partials/privacy.php">Privacy Policy</a>
+                    </li>
+                    <li>
+                        <a href="partials/terms.php">Terms &amp; Condition </a>
+                    </li>
+                </ul>
+                <br>
+                <p class="text-center" style="color:black;">
+                    © 2012 Corporate Lending Center, Inc. All Rights Reserved
+                </p>
 
+            </div>
         </div>
-    </div>
   </footer>
 
     <!-- jQuery library -->
@@ -548,6 +552,45 @@ We work to make commercial lending easily attainable for our clients to operate 
     <script src="js/creative.js"></script>
     <!-- Nav scrolling -->
     <script src="js/jquery-easing.js"></script>
+    <script>
+
+	$(document).ready(function(){
+		$('.maps').click(function () {
+		  $('.maps iframe').css("pointer-events", "auto");
+		});
+
+		$( ".maps" ).mouseleave(function() {
+		  $('.maps iframe').css("pointer-events", "none");
+		});
+	});
+
+
+
+/*Animation Js*/
+			$(window).scroll(function() {
+				$('#object').each(function(){
+				var imagePos = $(this).offset().top;
+
+				var topOfWindow = $(window).scrollTop();
+					if (imagePos < topOfWindow+950) {
+						$(this).addClass("bigEntrance");
+					}
+				});
+			});
+
+				$(window).scroll(function() {
+					$('.card').each(function(){
+					var imagePos = $(this).offset().top;
+
+					var topOfWindow = $(window).scrollTop();
+						if (imagePos < topOfWindow+950) {
+							$(this).addClass("fadeIn");
+						}
+					});
+				});
+
+
+    </script>
 
 </body>
 

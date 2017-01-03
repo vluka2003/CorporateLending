@@ -137,6 +137,15 @@ padding: 25px;
     border: 0;
     height: auto;
 }
+.fadeIn {
+    animation-name: fadeIn;
+    -webkit-animation-name: fadeIn;
+    animation-duration: 1.5s;
+    -webkit-animation-duration: 1.5s;
+    animation-timing-function: ease-in-out;
+    -webkit-animation-timing-function: ease-in-out;
+    visibility: visible !important;
+}
 .img-factoring {
     margin-bottom: .75rem;
     max-width: 100%;
@@ -202,8 +211,9 @@ padding: 25px;
 }
 
 .service-box {
-  max-width: 400px;
+  max-width: 290px;
   margin: 50px auto 0;
+  display: inline-block;
 }
 @media (min-width: 992px) {
   .service-box {
@@ -290,6 +300,23 @@ Edit on
   }
   100% {
     transform: translateZ(0);
+  }
+}
+@keyframes fadeIn {
+  0% {
+      transform: scale(0);
+      opacity: 0.0;
+  }
+  60% {
+      transform: scale(1.1);
+  }
+  80% {
+      transform: scale(0.9);
+      opacity: 1;
+  }
+  100% {
+      transform: scale(1);
+      opacity: 1;
   }
 }
 
@@ -482,6 +509,12 @@ video#bgvid {
 .text-primary {
   color: #F05F40;
 }
+.section-heading {
+  text-shadow: 2px 2px 4px #000000;
+  -webkit-transition: all 0.35s;
+  -moz-transition: all 0.35s;
+  transition: all 0.35s;
+}
 /*footer*/
 footer .glyphicon {
     font-size: 20px;
@@ -659,4 +692,11 @@ body {
     -o-padding-start: 0;
     padding-start: 0;
     padding: 0;
+}
+.connected-icons li {
+    display: inline-block;
+    padding: 15px 15px;
+}
+.list-type {
+  list-style-type: none;
 }

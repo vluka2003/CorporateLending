@@ -318,7 +318,7 @@ body {
 }
 
 img {
-  width: 100%;
+  max-width: 100%;
 }
 
  .wars, .byline {
@@ -354,6 +354,13 @@ img {
 @media only screen and (max-width: 480px) {
   .web-animation {
     font-size: 7px;
+  }
+  .card {
+      float: left;
+      width: 100%;
+      padding: .75rem;
+      border: 0;
+      height: auto;
   }
 }
 

@@ -71,6 +71,7 @@ body, html {
     line-height: 1.42857143 !important;
     letter-spacing: 4px;
     border-radius: 0;
+    font-family: Montserrat, sans-serif;
 }
 
 .navbar li a, .navbar .navbar-brand {
@@ -87,11 +88,7 @@ body, html {
     border-color: transparent;
     color: #fff !important;
 }
-.top-nav-collapse {
-  color: #fff !important;
-  background-color: #dae9f1 !important;
-}
-/*Nan done*/
+/*Nav done*/
 
 /* Create a Parallax Effect */
 .bgimg-1, .bgimg-2, .bgimg-3 {
@@ -120,7 +117,7 @@ padding: 25px;
 
 /* Third image (Contact) */
 .bgimg-3 {
-    background-image: url("../img/result.jpg");
+    background-image: url("../img/beach.jpeg");
     min-height: 400px;
 }
 
@@ -170,7 +167,7 @@ padding: 25px;
     bottom: 0;
     left: 0;
     right: 0;
-    background-color: #c86b2c;
+    background-color: #657e92;
     font-weight: bolder;
     color: white;
     visibility: hidden;
@@ -211,7 +208,7 @@ padding: 25px;
 }
 
 .service-box {
-  max-width: 290px;
+  max-width: 400px;
   margin: 50px auto 0;
   display: inline-block;
 }
@@ -367,7 +364,7 @@ img {
   text-align: center;
   text-transform: uppercase;
   top: 29%;
-  text-shadow:  1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  text-shadow:  1px 1px 2px black, 0 0 25px #657e92, 0 0 5px #657e95;
 }
 
 /*** Media queries for adjusting to different screen sizes ***/
@@ -670,7 +667,7 @@ body {
   webkit-tap-highlight-color: #222222;
 }
 .contact_page {
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/bg.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/beach.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
